@@ -1,0 +1,13 @@
+{
+  "enabledPlugins": {
+    "hono-skills@kfly8-claude-plugins": true
+  },
+  "extraKnownMarketplaces": {
+    "kfly8-claude-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "kfly8/claude-plugins"
+      }
+    }
+  }
+}
